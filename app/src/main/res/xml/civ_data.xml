@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Civs>
+    <Civ>
+        <id>0</id>
+        <Name>Aztecs</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Relics generate 33% more gold.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+    <Civ>
+        <id>1</id>
+        <Name>berbers</Name>
+        <UU>Camel Archer</UU>
+        <TeamBonus>
+            Genitours are available at the Archery Range
+        </TeamBonus>
+        <CivBonus>
+			Villagers move +10% faster;Stable units are 15%/20% cheaper in the Castle/Imperial Age;Ships move +10% faster.            
+		</CivBonus>
+        <Focus>navy and cavalry.</Focus>
+        <CUT>Kasbah - Increases the working speed of Castles for the entire team by +25%. </CUT>
+        <IUT>Maghrabi Camels - Gives camel units a regeneration ability </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>2</id>
+        <Name>britons</Name>
+        <UU>Longbowman</UU>
+        <TeamBonus>
+            Archery Ranges work 20% faster.
+        </TeamBonus>
+        <CivBonus>
+			Town Centers cost -50% wood starting in the Castle Age;Foot archers (except Skirmishers) have +1/+2 range in the Castle/Imperial Age;Shepherds work 25% faster.
+        </CivBonus>
+        <Focus>foot archers</Focus>
+        <CUT>Yeomen - Gives foot archers +1 range and towers +2 attack. </CUT>
+        <IUT>Warwolf . Gives Trebuchets blast damage and 100% accuracy against units.</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>3</id>
+        <Name>bulgarians</Name>
+        <UU>Konnik</UU>
+        <TeamBonus>
+            Blacksmiths work 50% faster.
+        </TeamBonus>
+        <CivBonus>
+			Militia line units are upgraded for free;Town Centers cost -50% stone;Can build Krepost.
+        </CivBonus>
+        <Focus>infantry and cavalry.</Focus>
+        <CUT>Stirrups - Scout Cavalry line and Konniks attack 25% faster. </CUT>
+        <IUT>Bagains - Militia line units +5 armor. </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>4</id>
+        <Name>burmese</Name>
+        <UU>Arambai</UU>
+        <TeamBonus>
+            Relics are visible on the map
+        </TeamBonus>
+        <CivBonus>
+			Lumber Camp technologies are free;Infantry has +1/+2/+3 attack in the Feudal/Castle/Imperial Age;Monastery technologies are 50% cheaper.
+        </CivBonus>
+        <Focus>Monks and elephants.</Focus>
+        <CUT>Howdah - Gives Battle Elephants +1/+1 armor. </CUT>
+        <IUT>Manipur Cavalry - Gives cavalry and Arambai +3 attack against buildings.</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>5</id>
+        <Name>byzantines</Name>
+        <UU>Cataphract</UU>
+        <TeamBonus>
+            Monks heal 50% faster.
+        </TeamBonus>
+        <CivBonus>
+			Buildings have +10%/+20%/+30%/+40% HP in the Dark/Feudal/Castle/Imperial Age;Camel Riders, Skirmishers, and the Spearman lines are 25% cheaper;Fire Ships fire 25% faster;Advancing to the Imperial Age is 33% cheaper;Town Watch is free.
+        </CivBonus>
+        <Focus>Defense</Focus>
+        <CUT>Greek Fire - Gives Fire Ships +1 range. </CUT>
+        <IUT>Logistica - Gives Cataphracts trample damage and +6 attack against infantry.</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>6</id>
+        <Name>celts</Name>
+        <UU>Woad Raider</UU>
+        <TeamBonus>
+            Siege Workshops work 20% faster.
+        </TeamBonus>
+        <CivBonus>
+			Infantry units move 15% faster;Lumberjacks work 15% faster;Siege weapons fire 25% faster;Enemy herdables can be converted regardless of enemy units next to them.
+        </CivBonus>
+        <Focus>Infantry and Siege weapons</Focus>
+        <CUT>Stronghold - Castles and towers fire 25% faster.</CUT>
+        <IUT>Furor Celtica - Gives Siege Workshop units +40% HP</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>7</id>
+        <Name>chinese</Name>
+        <UU>Chu Ko Nu</UU>
+        <TeamBonus>
+            Farms provide +45 food.
+        </TeamBonus>
+        <CivBonus>
+			Start game with three extra Villagers, but with -200 food and -50 wood;Town Centers support ten population (instead of five) and have +5 Line of Sight;Technologies are 10%/15%/20% cheaper in the Feudal/Castle/Imperial Age;Demolition Ships have +50% HP.
+        </CivBonus>
+        <Focus>Archers</Focus>
+        <CUT>Great Wall - Increases the hit points of walls and towers by +30%. </CUT>
+        <IUT>Rocketry - Increases the attack of Chu Ko Nu by +2, and the attack of Scorpions by +4. </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>8</id>
+        <Name>cumans</Name>
+        <UU>Kipchak</UU>
+        <TeamBonus>
+            Palisade Walls have +50%
+        </TeamBonus>
+        <CivBonus>
+			Can build an additional Town Center in the Feudal Age;Siege Workshop and Battering Ram available in the Feudal Age;Cavalry moves 5%/10%/15% faster in the Feudal/Castle/Imperial Age.
+		</CivBonus>
+        <Focus>Cavalry</Focus>
+        <CUT>Steppe Husbandry - Scout Cavalry line and Cavalry Archers are trained 400% faster.</CUT>
+        <IUT>Cuman Mercenaries - Team members can create 10 free Elite Kipchaks in the Castle</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>9</id>
+        <Name>ethiopians</Name>
+        <UU>Shotel Warrior</UU>
+        <TeamBonus>
+            Towers and Outposts have +3 Line of Sight
+        </TeamBonus>
+        <CivBonus>
+			The Archer line fires 18% faster;Receive +100 food and +100 gold whenever a new Age is reached;The Pikeman upgrade is free.
+        </CivBonus>
+        <Focus>Archers and Siege weapons</Focus>
+        <CUT>Royal Heirs - Halves the creation speed of Shotel Warriors.</CUT>
+        <IUT>Torsion Engines - Increases the blast radius of Siege Workshop units</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>10</id>
+        <Name>franks</Name>
+        <UU>Throwing Axeman</UU>
+        <TeamBonus>
+            Knight line has +2 Line of Sight
+        </TeamBonus>
+        <CivBonus>
+			Farm upgrades are free;Castles are 25% cheaper;Cavalry have +20% HP;Foragers work 25% faster.
+        </CivBonus>
+        <Focus>Cavalry</Focus>
+        <CUT>Chivalry - Increases the work rate of Stables by +40%.</CUT>
+        <IUT>Bearded Axe - Gives Throwing Axemen +1 range</IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>11</id>
+        <Name>goths</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Barracks work 20% faster.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>12</id>
+        <Name>huns</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Stables work 20% faster.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>13</id>
+        <Name>incas</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Farms are built 100% faster.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>14</id>
+        <Name>indians</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Camel Rider +6 and ranged Camel +5 attack against buildings.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>15</id>
+        <Name>italians</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Condottieri are available at the Barracks in Imp.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>16</id>
+        <Name>japanese</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Galleys have +50% Line of Sight.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>17</id>
+        <Name>khmer</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Scorpions have +1 range.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>18</id>
+        <Name>koreans</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+             Mangonel line minimum range reduced to 1
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>19</id>
+        <Name>lithuanians</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Monasteries work 20% faster.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>20</id>
+        <Name>magyars</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            All foot archers have +2 Line of Sight.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>21</id>
+        <Name>malay</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Docks and Harbors have +100% Line of Sight.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>22</id>
+        <Name>malians</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            University researches 80% faster.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>23</id>
+        <Name>mayans</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Walls and Gates are 50% cheaper
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>24</id>
+        <Name>mongols</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Scout Cavalry line has +2 Line of Sight.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>25</id>
+        <Name>persians</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Knight line has +2 attack against archers.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>26</id>
+        <Name>portuguese</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Free Cartography from Dark Age.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>27</id>
+        <Name>saracens</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            All foot archers have +2 attack against standard buildings.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>28</id>
+        <Name>slavs</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Military production buildings (except Castles and Kreposts) provide +5 pop.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>29</id>
+        <Name>spanish</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Trade Carts and Trade Cogs return 25% more gold.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>30</id>
+        <Name>tatars</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            All Cavalry Archers have + 2 Line of Sight.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>31</id>
+        <Name>teutons</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            All units resist conversion.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>32</id>
+        <Name>turks</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Gunpowder units are created 25% faster
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>33</id>
+        <Name>vietnamese</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            upgrade to Imperial Skirmishers in Imp.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout \nVillagers carry +5 extra resources \nAll military units are created 18% faster \nMonks gain 5 HP for every researched Monastery technology \nStart with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+	<Civ>
+        <id>34</id>
+        <Name>vikings</Name>
+        <UU>Jaguar Warior</UU>
+        <TeamBonus>
+            Docks are 15% cheaper.
+        </TeamBonus>
+        <CivBonus>
+            Start the game with an Eagle Scout;Villagers carry +5 extra resources;All military units are created 18% faster;Monks gain 5 HP for every researched Monastery technology;Start with +50 gold.
+        </CivBonus>
+        <Focus>infantry and Monks</Focus>
+        <CUT>Atlatl - attack and range of Skirmishers +1 </CUT>
+        <IUT>Garland Wars - increases infantry attack by +4 </IUT>
+        <Missing>Halberdier;handcannoner</Missing>
+    </Civ>
+</Civs>

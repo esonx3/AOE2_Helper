@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="CivBG">#fdd716</color>
+    <color name="CivBG_low">#dec6ac</color>
+    <color name="bgColor">#e0bb86</color>
+    <color name="bgFrameColor">#5f3e2a</color>
+</resources>

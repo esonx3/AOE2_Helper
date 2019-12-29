@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AOE2_Helpe</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="civilizations">
+        <item>Aztecs</item>
+        <item>Berbers</item>
+        <item>Britons</item>
+        <item>Bulgarians</item>
+        <item>Burmese</item>
+        <item>Byzantines</item>
+        <item>Celts</item>
+        <item>Chinese</item>
+        <item>Cumans</item>
+        <item>Ethiopians</item>
+        <item>Franks</item>
+        <item>Goths</item>
+        <item>Huns</item>
+        <item>Incas</item>
+        <item>Indians</item>
+        <item>Italians</item>
+        <item>Japanese</item>
+        <item>Khmer</item>
+        <item>Koreans</item>
+        <item>Lithuanians</item>
+        <item>Magyars</item>
+        <item>Malay</item>
+        <item>Malians</item>
+        <item>Mayans</item>
+        <item>Mongols</item>
+        <item>Persians</item>
+        <item>Portuguese</item>
+        <item>Saracens</item>
+        <item>Slavs</item>
+        <item>Spanish</item>
+        <item>Tatars</item>
+        <item>Teutons</item>
+        <item>Turks</item>
+        <item>Vietnamese</item>
+        <item>Vikings</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
